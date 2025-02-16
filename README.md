@@ -1,2 +1,2 @@
-# ag-dot-ca
+# AG dot com
 GitHub hosted website for AG
